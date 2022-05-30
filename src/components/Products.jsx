@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Flex, Grid } from "@chakra-ui/react";
 import axios from "axios";
-
 import Product from "./Product";
 import AddProduct from "./AddProduct";
 import Pagination from "./Pagination";
